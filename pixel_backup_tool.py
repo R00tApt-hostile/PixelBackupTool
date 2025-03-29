@@ -454,7 +454,7 @@ Version 1.0
 A simple tool to backup your Google Pixel phone data
 with customizable options for different media types.
 
-© 2023 Pixel Backup Toolkit"""
+© 2025, Pixel Backup Toolkit"""
         messagebox.showinfo("About", about_text)
 
 if __name__ == "__main__":
