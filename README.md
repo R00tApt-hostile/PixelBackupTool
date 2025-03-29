@@ -21,7 +21,7 @@ A comprehensive GUI application for backing up your Google Pixel phone with cust
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/pixel-backup-toolkit.git
+git clone [](https://github.com/R00tApt-hostile/PixelBackupTool/)
 
 # Install dependencies
 pip install pillow
